@@ -331,8 +331,8 @@ footer hr:after{
 ==========================*/
 .logo {
     height: 150px; 
-    width: 200px; 
     overflow: hidden;
+    transform: scale(.6);
 }
 
 .foto-palestrante{
